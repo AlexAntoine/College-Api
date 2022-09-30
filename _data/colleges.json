@@ -1693,7 +1693,938 @@
                 ]
             }
         ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Alfred State College",
+
+        "athleticDirector":{
+            "name":"Jason Doviak",
+            "email": "doviakjm@alfredstate.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Mike Armstrong",
+                    "email":"armstrmd@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Josh Laurie",
+                        "email":""
+                    },
+
+                    {
+                        "name":"Bill Swanson",
+                        "email":""
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Taylor Button",
+                    "email":"buttonta1@alfredstate.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Rachel Durbin",
+                        "email":""
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Tim Giagios",
+                    "email":"GiagioTD@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Scott Linn",
+                    "email":"LinnSD@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Drew Gallardy",
+                        "email":"Gallardg@alfredstate.edu"
+                    },
+                    {
+                        "name":"Zach Handy",
+                        "email":"handyzs@alfredstate.edu"
+                    },
+                    {
+                        "name":"David Baron",
+                        "email":"BaronDM@alfredstate.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"mens soccer",
+
+                "headCoach":{
+                    "name":"Gabe Kuhn",
+                    "email":"kuhngp@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Craig Clark",
+                        "email":"clarkcr@alfredstate.edu"
+                    },
+                    {
+                        "name":"Curtis Davis",
+                        "email":"DavisCR@alfredstate.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Anne Holmok",
+                    "email":"holmoka@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gerry Amidon",
+                        "email":"AmidonGL@alfredstate.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Todd Randall",
+                    "email":"randaltl@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gerry Amidon",
+                        "email":"AmidonGL@alfredstate.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"swimming",
+
+                "headCoach":{
+                    "name":"Michael Smiechowski",
+                    "email":"SmiechMF@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Nick Beach",
+                        "email":""
+                    }
+                ]
+
+            },
+
+            {
+                "name":"track and field",
+
+                "headCoach":{
+                    "name":"Tim Giagios",
+                    "email":"GiagioTD@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Anne Holmok",
+                        "email":"holmoka@alfredstate.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"volleyball",
+
+                "headCoach":{
+                    "name":"Gene Doorley",
+                    "email":"doorleec@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Anne Holmok",
+                        "email":"holmoka@alfredstate.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"wrestling",
+
+                "headCoach":{
+                    "name":"Justin Signorelli",
+                    "email":"signorjm@alfredstate.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Colin Johnson",
+                        "email":"JohnsoC@alfredstate.edu"
+                    }
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Allegheny College",
+
+        "athleticDirector":{
+            "name":"Bill Ross",
+            "email": "wross@allegheny.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Brandon Crum",
+                    "email":"bcrum@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tyler Schuch",
+                        "email":"tschuch@allegheny.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Ben Mourer '07",
+                    "email":"bmourer@allegheny.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Wade Floyd",
+                        "email":"wfloyd@allegheny.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Bob Simmons",
+                    "email":"rsimmons@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Greg Bean",
+                        "email":"gbean@allegheny.edu"
+                    },
+                    {
+                        "name":"Zach Zoll",
+                        "email":"zzoll@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Kelly Muffley",
+                    "email":"kmuffley@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jess Vormelker",
+                        "email":"jvormelker@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"field hockey",
+
+                "headCoach":{
+                    "name":"Margaret Maclean",
+                    "email":"mmaclean@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Leah Romanowski",
+                        "email":"lromanowski@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Rich Nagy",
+                    "email":"rnagy@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Max Beal",
+                        "email":"rnagy@allegheny.edu"
+                    },
+                    {
+                        "name":"Vann Hunt",
+                        "email":"vhunt@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"Golf",
+
+                "headCoach":{
+                    "name":"Jeff Groff",
+                    "email":"jgroff@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Abby Sorensen",
+                        "email":"asorensen@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Tommy Pearce",
+                    "email":"tpearce@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Anthony Accardi",
+                        "email":"aaccardi@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Patty Pehnke",
+                    "email":"ppehnke@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Eliza Ryan",
+                        "email":"eryan@allegheny.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men soccar",
+
+                "headCoach":{
+                    "name":"John Lichina",
+                    "email":"jlichina@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Lacey Phillips",
+                    "email":"lphillips@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Leanne Cardoso-Bastos",
+                        "email":"lcardosobastos@allegheny.edu"
+                    }
+                ]
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Beth Curtiss",
+                    "email":"bcurtiss@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jessica Zavolta '18",
+                        "email":"jzavolta@allegheny.edu"
+                    }
+                ]
+            },
+            {
+                "name":"swimming",
+
+                "headCoach":{
+                    "name":"Max Niggel",
+                    "email":"mniggel@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Logan Indest",
+                        "email":"lindest@allegheny.edu"
+                    }
+                ]
+            },
+            {
+                "name":"tennis",
+
+                "headCoach":{
+                    "name":"Dave Hayden",
+                    "email":"dhayden@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                      
+                    }
+                ]
+            },
+            {
+                "name":"track and field",
+
+                "headCoach":{
+                    "name":"Ben Mourer '07",
+                    "email":"bmourer@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Wade Floyd",
+                        "email":"wfloyd@allegheny.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"volleyball",
+
+                "headCoach":{
+                    "name":"Kelly Barzak",
+                    "email":"kbarzak@allegheny.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Zach Rombach",
+                        "email":"zrombach@allegheny.edu"
+                    }
+                ]
+            }
+            
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Alma College",
+
+        "athleticDirector":{
+            "name":"Sarah Dehring",
+            "email": "dehringsm@alma.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Jason Crain",
+                    "email":"crainjl@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Scott Niemiec",
+                        "email":"niemiecsm@alma.edu"
+                    },
+
+                    {
+                        "name":"Dave Veres",
+                        "email":"niemiecsm@alma.edu"
+                    }
+                ]
+            },
+            {
+                "name":"bowling",
+
+                "headCoach":{
+                    "name":"Kyle Woodcock",
+                    "email":"woodcockkr@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jeff King",
+                        "email":"kingja@alma.edu"
+                    }
+                ]
+            },
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Matt Chovanec",
+                    "email":"mchovanec@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gordie Aldrich",
+                        "email":"aldrich@alma.edu"
+                    },
+
+                    {
+                        "name":"Mark Ryan",
+                        "email":"ryanmg@alma.edu"
+                    },
+
+                    {
+                        "name":"Sarah Kasabian-Larson",
+                        "email":"larsonse@alma.edu"
+                    },
+                    {
+                        "name":"Alison Jerome",
+                        "email":"jeromeas@alma.edu"
+                    },
+                    {
+                        "name":"Kegan Gibson",
+                        "email":"gibsonkj@alma.edu"
+                    }
+                ]
+            },
+            {
+                "name":"dance",
+
+                "headCoach":{
+                    "name":"Tracy Burton",
+                    "email":"burtonte@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Rebecca Gieleghem",
+                        "email":"gieleghemrs@alma.edu"
+                    }
+                ]
+            },
+            {
+                "name":"esports",
+
+                "headCoach":{
+                    "name":"Chris Gaumond",
+                    "email":"gaumondcm@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+            },
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Jason Couch",
+                    "email":"couchja@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Ryan Ettinger",
+                        "email":"ettingerrs@alma.edu"
+                    },
+
+                    {
+                        "name":"Zach Riepma",
+                        "email":"riepmazm@alma.edu"
+                    },
+
+                    {
+                        "name":"Mark Merlo",
+                        "email":"merlome@alma.edu"
+                    },
+                    {
+                        "name":"Jason Polmanteer",
+                        "email":"polmanteerjl@alma.edu"
+                    },
+                    {
+                        "name":"Shaun Balhorn",
+                        "email":"calhoun@alma.edu"
+                    },
+                    {
+                        "name":"Justin Peck",
+                        "email":"peckj@alma.edu"
+                    }
+                ]
+            },
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Mike Fitzpatrick",
+                    "email":"fitzpatrickml@alma.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+            },
+            {
+                "name":"men golf",
+
+                "headCoach":{
+                    "name":"JT Cleveland",
+                    "email":"clevelandjt@alma.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+            },
+
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Adam Nycz",
+                    "email":"nyczal@alma.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Jared Nycz",
+                        "email":"nyczjt@alma.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"John Greer",
+                    "email":"greerji@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kent Maidens",
+                        "email":"maidensdk@alma.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Jared Guy",
+                    "email":"guyjm@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Chris Sandro",
+                        "email":"sandro@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Denny Griffin",
+                    "email":"griffin@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Phil Hansen",
+                        "email":"hansen@alma.edu"
+                    },
+                    {
+                        "name":"Brandee West",
+                        "email":"brandee.west@gmail.com"
+                    },
+                    {
+                        "name":"Mike Doran",
+                        "email":"mdoran@alma.edu"
+                    },
+                    {
+                        "name":"Alan Schneider",
+                        "email":"schneiderae@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"stunt",
+
+                "headCoach":{
+                    "name":"Michelle Sabourin",
+                    "email":"sabourinmm@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Bre Ramos",
+                        "email":"ramosbm@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"swimming",
+
+                "headCoach":{
+                    "name":"Nick Polzin",
+                    "email":"polzinnj@alma.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            },
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"Matt Chovanec",
+                    "email":"mchovanec@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gordie Aldrich",
+                        "email":"aldrich@alma.edu"
+                    },
+                    {
+                        "name":"Mark Ryan",
+                        "email":"ryanmg@alma.edu"
+                    },
+                    {
+                        "name":"Mark Merlo",
+                        "email":"merlome@alma.edu"
+                    },
+                    {
+                        "name":"James Larson",
+                        "email":"larsonjn@alma.edu"
+                    },
+                    {
+                        "name":"Sarah Kasabian-Larson",
+                        "email":"larsonse@alma.edu"
+                    },
+                    {
+                        "name":"Alison Jerome",
+                        "email":"jeromeas@alma.edu"
+                    },
+                    {
+                        "name":"Kegan Gibson",
+                        "email":"gibsonkj@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Sami Stormont",
+                    "email":"stormontsl@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Justin Thurston",
+                        "email":"thurstonjl@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women golf",
+
+                "headCoach":{
+                    "name":"JT Cleveland",
+                    "email":"clevelandjt@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jennifer Kowalczyk",
+                        "email":"kowalczykje@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"Ashley Johnson",
+                    "email":"johnsonaa@alma.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            },
+            {
+                "name":"womnen tennis",
+
+                "headCoach":{
+                    "name":"Jared Guy",
+                    "email":"guyjm@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Chris Sandro",
+                        "email":"sandro@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"volleyball",
+
+                "headCoach":{
+                    "name":"Madison Kelsey",
+                    "email":"smithmj@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"wrestling",
+
+                "headCoach":{
+                    "name":"Todd Hibbs",
+                    "email":"hibbstw@alma.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jared Groeneveld",
+                        "email":"groeneveldjl@alma.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women wrestling",
+
+                "headCoach":{
+                    "name":"Katlyn Pizzo",
+                    "email":"pizzokm@alma.edu"
+                },
+
+                "assistantCoaches":[
+                 
+                ]
+
+            }
+        ]
     }
+
     
 
 
