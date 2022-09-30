@@ -1,0 +1,149 @@
+{
+        "division": "3",
+
+        "school ": "Babson",
+
+        "athletic_director":{
+            "name":"Markesha Henderson",
+            "email": "mhenderson@agnesscott.edu"
+        },
+
+        "sports":[
+            {
+                "sport_name":"softball",
+
+                "head_coach":{
+                    "name":"Kerry Busby",
+                    "email":"kbusby@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Marty Hutchinson",
+                        "email":"mhutchinson@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Taryn Williams",
+                        "email":"tawilliams@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Ellie Adams",
+                        "email":"eadams@agnesscott.edu"
+                    }
+                ]
+            },
+
+            {
+                "sport_name":"women's soccer",
+
+                "head_coach":{
+                    "name":"Mara Primmer",
+                    "email":"mprimmer@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Chris Madrigal",
+                        "email":""
+                    }
+                ]
+
+
+            },
+
+            {
+                "sport_name":"women's basketball",
+
+                "head_coach":{
+                    "name":"Reggie Blackmon",
+                    "email":"rblackmon@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Terrianna Cave",
+                        "email":"tcave@agnesscott.edu"
+                    }
+                ]
+
+            }
+        ]
+    }
+
+
+    {
+        "division": "3",
+
+        "school": "",
+
+        "athleticDirector":{
+            "name":"",
+            "email": ""
+        },
+
+        "sports":[
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            }
+        ]
+    }
+

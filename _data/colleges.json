@@ -1,0 +1,1701 @@
+[
+    {
+        "division": "3",
+
+        "school": "Adrian College",
+
+        "athleticDirector":{
+            "name":"Craig Rainey",
+            "email": "crainey@adrian.edu"
+        },
+
+        "sports":[
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Jim Deere",
+                    "email":"jdeere@adrian.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Harry Bailey",
+                        "email":"hbailey@adrian.edu"
+                    },
+
+                    {
+                        "name":"Toby Ernst",
+                        "email":"ternst@adrian.edu"
+                    },
+
+                    {
+                        "name":"Alex Knollman",
+                        "email":"aknollman@adrian.edu"
+                    },
+
+                    {
+                        "name":"Deontae Bridgeman",
+                        "email":"dbridgeman@adrian.edu"
+                    },
+
+                    {
+                        "name":"Trenton Demeuse",
+                        "email":"tdemeuse@adrian.edu"
+                    },
+
+                    {
+                        "name":"Jacob Hankish",
+                        "email":"jhankish@adrian,edu"
+                    },
+
+                    {
+                        "name":"Ron Shiels",
+                        "email":"rshiels@adrian.edu"
+                    },
+
+                    {
+                        "name":"Martin Mathis",
+                        "email":"martinmathis@adrian.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"basketball",
+
+                "headCoach":{
+                    "name":"Brian Thill",
+                    "email":"bthill@adrian.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Matt Sutton",
+                        "email":"msutton@adrian.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "sport_name":"men's wrestling",
+
+                "head_coach":{
+                    "name":"Bill Schindel",
+                    "email":"bschindel@adrian.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Noah Nieman",
+                        "email":"nnieman@adrian.edu"
+                    }
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school":"Agnes Scott College",
+        "athleticDirector":{
+            "name":"Markesha Henderson",
+            "email": "mhenderson@agnesscott.edu"
+        },
+
+        "sports":[
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Kerry Busby",
+                    "email":"kbusby@agnesscott.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Marty Hutchinson",
+                        "email":"mhutchinson@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Taryn Williams",
+                        "email":"tawilliams@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Ellie Adams",
+                        "email":"eadams@agnesscott.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women's soccer",
+
+                "headCoach":{
+                    "name":"Mara Primmer",
+                    "email":"mprimmer@agnesscott.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Chris Madrigal",
+                        "email":""
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women's basketball",
+
+                "headCoach":{
+                    "name":"Reggie Blackmon",
+                    "email":"rblackmon@agnesscott.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Terrianna Cave",
+                        "email":"tcave@agnesscott.edu"
+                    }
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Albertus Magnus College",
+
+        "athleticDirector":{
+            "name":"Michael Kobylanski",
+            "email": ""
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Brian Leighton",
+                    "email":"bleighton@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jason Vitale",
+                        "email":"jvitale@albertus.edu"
+                    },
+
+                    {
+                        "name":"Jeff Buck",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Mitch Oliver",
+                    "email":"moliver@albertus.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Jason Perrier",
+                        "email":"jperrier@albertus.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"J.R. Fredette",
+                    "email":"rffredette@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Daja Polk",
+                        "email":""
+                    }
+                ]
+            },
+            {
+                "name":"field hockey",
+
+                "headCoach":{
+                    "name":"Danielle Pannone",
+                    "email":"dpannone@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        
+                    }
+                ]
+            },
+
+            {
+                "name":"men ice hockey",
+
+                "headCoach":{
+                    "name":"Kyle Wallack",
+                    "email":"kwallack@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jack Riley",
+                        "email":"jriley@albertus.edu"
+                    },
+
+                    {
+                        "name":"John O'Brien",
+                        "email":"jmobrien@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men golf",
+
+                "headCoach":{
+                    "name":"J.R. Fredette",
+                    "email":"kwallack@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Ryan Quinn",
+                        "email":"rtquinn@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women golf",
+
+                "headCoach":{
+                    "name":"J.R. Fredette",
+                    "email":"kwallack@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Ryan Quinn",
+                        "email":"rtquinn@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Darryl Delia",
+                    "email":"ddelia@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jack Kerner",
+                        "email":"jtkerner@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Nicholas Wajnowski",
+                    "email":"nwajnowski@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"John Adams",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Pete Hamasian",
+                    "email":"phamasian@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"James Lucchesi",
+                        "email":"jlucchesi@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Carli Matrisian",
+                    "email":"carli.matrisian@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Carli Matrisian",
+                    "email":"carli.matrisian@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women swimming and diving coach",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Megan Anderson",
+                        "email":"meanderson@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men swimming and diving coach",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Megan Anderson",
+                        "email":"meanderson@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Bob Migliorini",
+                    "email":"rmigliorini@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tim Gabbard",
+                        "email":"tggabbard@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women tennis",
+
+                "headCoach":{
+                    "name":"Bob Migliorini",
+                    "email":"rmigliorini@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alyssa Migliorini",
+                        "email":"amigliorini@albertus.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Ashley David",
+                    "email":"ardavid@albertus.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Albion College",
+
+        "athleticDirector":{
+            "name":"Matt Arend",
+            "email": "mailto:marend@albion.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Scott Carden",
+                    "email":"scarden@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Matt Rix",
+                        "email":"mrix@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Jody May",
+                    "email":"jmay@albion.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Nate Frisbie",
+                        "email":"nfrisbie@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Doreen Carden",
+                    "email":"dcarden@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Josh Ward",
+                        "email":"jjward@albion.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"cheerleading",
+
+                "headCoach":{
+                    "name":"Heather Mehl",
+                    "email":"hmehl@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men cross country",
+
+                "headCoach":{
+                    "name":"Lance Coleman",
+                    "email":"lcoleman@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"MariKate Murphy",
+                        "email":"memurphy@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women cross country",
+
+                "headCoach":{
+                    "name":"Lance Coleman",
+                    "email":"lcoleman@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"MariKate Murphy",
+                        "email":"memurphy@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"equestrain",
+
+                "headCoach":{
+                    "name":"Adam V. D’Agostino",
+                    "email":"adagostino@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"esports",
+
+                "headCoach":{
+                    "name":"Karlo Delos Angeles",
+                    "email":"kdelosangeles@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Zackery Ludtke",
+                        "email":""
+                    },
+
+                    {
+                        "name":"Katherine Hanchon",
+                        "email":""
+                    },
+
+                    {
+                        "name":"Tavian Napier",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Dustin Beurer",
+                    "email":"dbeurer@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Stephen Wasil",
+                        "email":"swasil@albion.edu"
+                    },
+
+                    {
+                        "name":"Justin Sweeney",
+                        "email":"jsweeney@albion.edu"
+                    },
+
+                    {
+                        "name":"Tino Smith II",
+                        "email":"tsmith@albion.edu"
+                    },
+
+                    {
+                        "name":"Andrew O'Hara",
+                        "email":"aohara@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men gold",
+
+                "headCoach":{
+                    "name":"Jake Maas",
+                    "email":"wmaas@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Dillon French",
+                        "email":"dfrench@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women gold",
+
+                "headCoach":{
+                    "name":"Jake Maas",
+                    "email":"wmaas@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Dillon French",
+                        "email":"dfrench@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Jacob DeCola",
+                    "email":"jdecola@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Laurie Merian",
+                    "email":"lmerian@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Emily DeWaters",
+                        "email":"edewaters@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Wytse Molenaar",
+                    "email":"wmolenaar@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kyle Ihn",
+                        "email":"kihn@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Eric Scott",
+                    "email":"escott@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Darus Ward",
+                        "email":"dsward@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Leigh Ann LaFave",
+                    "email":"llafave@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Leah Hosking",
+                        "email":"lhosking@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men swimming and diving",
+
+                "headCoach":{
+                    "name":"Eric Burris",
+                    "email":"eburris@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alex King",
+                        "email":"amking@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women swimming and diving",
+
+                "headCoach":{
+                    "name":"Eric Burris",
+                    "email":"eburris@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alex King",
+                        "email":"amking@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Kacie Miller",
+                    "email":"kmiller@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alex Dowley",
+                        "email":"adowley@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women tennis",
+
+                "headCoach":{
+                    "name":"Kacie Miller",
+                    "email":"kmiller@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alex Dowley",
+                        "email":"adowley@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men track",
+
+                "headCoach":{
+                    "name":"Lance Coleman",
+                    "email":"lcoleman@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"MariKate Murphy",
+                        "email":"memurphy@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women track",
+
+                "headCoach":{
+                    "name":"Lance Coleman",
+                    "email":"lcoleman@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"MariKate Murphy",
+                        "email":"memurphy@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Kristin Slamer-de St. Aubin",
+                    "email":"kslamer@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Keelin Severtson",
+                        "email":"ksevertson@albion.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men wrestling",
+
+                "headCoach":{
+                    "name":"Adam Wilson",
+                    "email":"awilson@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Brendan Ladd",
+                        "email":"bladd@albion.edu"
+                    },
+
+                    {
+                        "name":"Zach Wood",
+                        "email":"zwood@albion.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women wrestling",
+
+                "headCoach":{
+                    "name":"Adam Wilson",
+                    "email":"awilson@albion.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Brendan Ladd",
+                        "email":"bladd@albion.edu"
+                    },
+
+                    {
+                        "name":"Zach Wood",
+                        "email":"zwood@albion.edu"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Albright College",
+
+        "athleticDirector":{
+            "name":"Rick Ferry",
+            "email": "rferry@albright.edu"
+        },
+
+        "sports":[
+            {
+                "name":"Baseball",
+
+                "headCoach":{
+                    "name":"Jeff Feiler",
+                    "email":"jfeiler@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Aaron Fritz",
+                        "email":"afritz@albright.edu"
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    },
+
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Rick Ferry",
+                    "email":"rferry@albright.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Matt Chalupa",
+                        "email":"mchalupa@albright.edu"
+                    },
+
+                    {
+                        "name":"DeLascio Dancy",
+                        "email":"ddancy@albright.edu"
+                    },
+
+                    {
+                        "name":"Casey Ayers",
+                        "email":"casey.ayers001@albright.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Janice Luck",
+                    "email":"jluck@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Chelsea Welch",
+                        "email":"cwelch@albright.edu"
+                    },
+
+                    {
+                        "name":"Shawn Barczynski",
+                        "email":"sbarczynski@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"cheerleading",
+
+                "headCoach":{
+                    "name":"Natalie Buck",
+                    "email":"nbuck@albright.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Josh Keener",
+                    "email":"jkeener@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+
+            },
+
+            {
+                "name":"ESports",
+
+                "headCoach":{
+                    "name":"Joseph Matto",
+                    "email":"jmatto@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+
+            },
+
+            {
+                "name":"Field Hockey",
+
+                "headCoach":{
+                    "name":"Amber Auchenbach",
+                    "email":"aauchenbach@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Makenzie Kistler",
+                        "email":"mkistler@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"Football",
+
+                "headCoach":{
+                    "name":"Isaac Collins",
+                    "email":"icollins@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Shaun Weaver",
+                        "email":"sweaver@albright.edu"
+                    },
+
+                    {
+                        "name":"Cam D'Angelo",
+                        "email":"cdangelo@albright.edu"
+                    },
+
+                    {
+                        "name":"Ralph Clark",
+                        "email":"rclark@albright.edu"
+                    },
+
+                    {
+                        "name":"John Alicea",
+                        "email":"jalicea@albright.edu"
+                    },
+
+                    {
+                        "name":"John Venditti",
+                        "email":"jvenditti@albright.edu"
+                    },
+
+                    {
+                        "name":"Devin Hines",
+                        "email":"dhines@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"Golf",
+
+                "headCoach":{
+                    "name":"Eric Lamm",
+                    "email":"elamm@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+            },
+
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"James Malone",
+                    "email":"jmalone@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Spencer Stachowiak",
+                        "email":"sstachowiak@albright.edu"
+                    },
+
+                    {
+                        "name":"Nick Tonno",
+                        "email":"ntonno@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Jen Willis",
+                    "email":"jwillis@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Natalie Jacobs",
+                        "email":"njacobs@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Pat Stanco",
+                    "email":"pstanco@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Yawo Baah",
+                        "email":"ybaah@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Pat Stanco",
+                    "email":"pstanco@albright.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Yawo Baah",
+                        "email":"ybaah@albright.edu"
+                    },
+
+                    {
+                        "name":"Jillian Lapidus",
+                        "email":"jlapidus@albright.edu"
+                    },
+
+                    {
+                        "name":"Khanh Nguyen",
+                        "email":"knguyen@albright.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"Softball",
+
+                "headCoach":{
+                    "name":"Zoe Robertson",
+                    "email":"zrobertson@albright.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+
+            {
+                "name":"swimming",
+
+                "headCoach":{
+                    "name":"John Stuhltrager",
+                    "email":"jstuhltrager@albright.edu"
+                },
+
+                "assistantCoaches":[
+                   {
+                       "name":"Kathy Cook",
+                       "email":"kcook@albright.edu"
+                   }
+                ]
+
+            },
+
+            {
+                "name":"tennis",
+
+                "headCoach":{
+                    "name":"Miranda Brown",
+                    "email":"mnbrown@albright.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            },
+
+            {
+                "name":"track and field",
+
+                "headCoach":{
+                    "name":"Deneen Ebling",
+                    "email":"debling@albright.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            },
+
+            {
+                "name":"volleyball",
+
+                "headCoach":{
+                    "name":"Alex Litrenta",
+                    "email":"alitrenta@albright.edu"
+                },
+
+                "assistantCoaches":[
+                  {
+                      "name":"Alexa Poss",
+                      "email":"aposs@albright.edu"
+                  }
+                ]
+
+            }
+
+        ]
+
+
+
+    },
+
+    {
+        "division": "3",
+
+        "school": "Alfred University",
+
+        "athleticDirector":{
+            "name":"Paul Vecchio",
+            "email": "vecchio@alfred.edu"
+        },
+
+        "sports":[
+            {
+                "name":"Alpine Skiing",
+
+                "headCoach":{
+                    "name":"Bob Cilino",
+                    "email":"cilino@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Abigail Wallisch",
+                        "email":"aew8@alfred.edu"
+                    }
+
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Erich Kaempffe",
+                    "email":"kaempffe@alfred.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Adam Beam",
+                        "email":"beam@alfred.edu"
+                    },
+
+                    {
+                        "name":"Sage Brown",
+                        "email":"sdb3@alfred.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Mike Moskowitz",
+                    "email":"moskowitz@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Carson George",
+                        "email":"georgec@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"cheerleading",
+
+                "headCoach":{
+                    "name":"Dr. Amy Button-Ervin",
+                    "email":"button@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+
+            },
+
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Matt Phillips",
+                    "email":"phillipsm@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+
+            },
+
+            {
+                "name":"equestrian dressage",
+
+                "headCoach":{
+                    "name":"Theresa Shattan",
+                    "email":"shattan@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Steve Shank",
+                        "email":"shank@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"equestrian hunt seat",
+
+                "headCoach":{
+                    "name":"Olivia Costich",
+                    "email":"costich@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Theresa Shattan",
+                        "email":"shattan@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"equestrian western",
+
+                "headCoach":{
+                    "name":"Steve Shank",
+                    "email":"shank@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Peggy Shank",
+                        "email":"shankp@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"Football",
+
+                "headCoach":{
+                    "name":"Bob Rankl",
+                    "email":"ranklr@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Brady Bonacquisti",
+                        "email":"JBB7@alfred.edu"
+                    },
+
+                    {
+                        "name":"Nick Ulassin",
+                        "email":"ulassin@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Jason Lockner",
+                    "email":"locknerj@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Adam DuPree",
+                        "email":"dupreea@alfred.edu"
+                    },
+
+                    {
+                        "name":"Rion Davison",
+                        "email":"davisonr@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Jason Lockner",
+                    "email":"locknerj@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Johanna McCormick",
+                        "email":"mccormickj@alfred.edu"
+                    },
+
+                    {
+                        "name":"Katelyn McCabe",
+                        "email":"krm4@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Jason Lockner",
+                    "email":"locknerj@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Johanna McCormick",
+                        "email":"mccormickj@alfred.edu"
+                    },
+
+                    {
+                        "name":"Katelyn McCabe",
+                        "email":"krm4@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Craig Yanni",
+                    "email":"yanni@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tyler Landries",
+                        "email":"TL16@alfred.edu"
+                    },
+
+                    {
+                        "name":"Danielle Perry",
+                        "email":"dlp3@alfred.edu"
+                    },
+
+                    {
+                        "name":"Mitchell Porter",
+                        "email":"MPP8@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Luke Wesneski",
+                    "email":"wesneski@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Brandon Harrison",
+                        "email":"Bgh01670@gmail.com"
+                    },
+
+                    {
+                        "name":"Cassie Reed",
+                        "email":"clr7@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men and women swimming and diving",
+
+                "headCoach":{
+                    "name":"Brian Striker",
+                    "email":"striker@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Drew Dantino",
+                        "email":"DCD4@alfred.edu"
+                    },
+
+                    {
+                        "name":"Michael Spencer",
+                        "email":"MWS4@alfred.edu"
+                    }
+                ]
+
+            },
+
+            {
+                "name":"men and women tennis",
+
+                "headCoach":{
+                    "name":"Jordan Crouch",
+                    "email":"crouch@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tori Pellegrino",
+                        "email":"VRP1@alfred.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men and women track and field",
+
+                "headCoach":{
+                    "name":"Dr. Angie Taylor",
+                    "email":"taylora@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Matt Phillips",
+                        "email":"phillipsm@alfred.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Dakota Pruiss",
+                    "email":"pruiss@alfred.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Mike Honeycutt",
+                        "email":"honeycuttm@alfred.edu"
+                    }
+                ]
+            }
+        ]
+    }
+    
+
+
+
+]

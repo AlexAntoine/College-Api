@@ -1,0 +1,177 @@
+[
+    {
+        "division": "3",
+
+        "school": "Adrian College",
+
+        "athletic_director":{
+            "name":"Craig Rainey",
+            "email": "crainey@adrian.edu"
+        },
+        
+        "sports":[
+            {
+                "sport_name":"football",
+
+                "head_coach":{
+                    "name":"Jim Deere",
+                    "email":"jdeere@adrian.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Harry Bailey",
+                        "email":"hbailey@adrian.edu"
+                    },
+
+                    {
+                        "name":"Toby Ernst",
+                        "email":"ternst@adrian.edu"
+                    },
+
+                    {
+                        "name":"Alex Knollman",
+                        "email":"aknollman@adrian.edu"
+                    },
+
+                    {
+                        "name":"Deontae Bridgeman",
+                        "email":"dbridgeman@adrian.edu"
+                    },
+
+                    {
+                        "name":"Trenton Demeuse",
+                        "email":"tdemeuse@adrian.edu"
+                    },
+
+                    {
+                        "name":"Jacob Hankish",
+                        "email":"jhankish@adrian,edu"
+                    },
+
+                    {
+                        "name":"Ron Shiels",
+                        "email":"rshiels@adrian.edu"
+                    },
+
+                    {
+                        "name":"Martin Mathis",
+                        "email":"martinmathis@adrian.edu"
+                    }
+                ]
+            },
+
+            {
+                "sport_name":"basketball",
+
+                "head_coach":{
+                    "name":"Brian Thill",
+                    "email":"bthill@adrian.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Matt Sutton",
+                        "email":"msutton@adrian.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "sport_name":"men's wrestling",
+
+                "head_coach":{
+                    "name":"Bill Schindel",
+                    "email":"bschindel@adrian.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Noah Nieman",
+                        "email":"nnieman@adrian.edu"
+                    }
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Babson",
+
+        "athletic_director":{
+            "name":"Markesha Henderson",
+            "email": "mhenderson@agnesscott.edu"
+        },
+
+        "sports":[
+            {
+                "sport_name":"softball",
+
+                "head_coach":{
+                    "name":"Kerry Busby",
+                    "email":"kbusby@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Marty Hutchinson",
+                        "email":"mhutchinson@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Taryn Williams",
+                        "email":"tawilliams@agnesscott.edu"
+                    },
+
+                    {
+                        "name":"Ellie Adams",
+                        "email":"eadams@agnesscott.edu"
+                    }
+                ]
+            },
+
+            {
+                "sport_name":"women's soccer",
+
+                "head_coach":{
+                    "name":"Mara Primmer",
+                    "email":"mprimmer@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Chris Madrigal",
+                        "email":""
+                    }
+                ]
+
+
+            },
+
+            {
+                "sport_name":"women's basketball",
+
+                "head_coach":{
+                    "name":"Reggie Blackmon",
+                    "email":"rblackmon@agnesscott.edu"
+                },
+
+                "assistant_coach":[
+                    {
+                        "name":"Terrianna Cave",
+                        "email":"tcave@agnesscott.edu"
+                    }
+                ]
+
+            }
+        ]
+    }
+
+
+    
+]
