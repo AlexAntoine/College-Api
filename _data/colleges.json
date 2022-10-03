@@ -2464,22 +2464,6 @@
                 "name":"",
 
                 "headCoach":{
-                    "name":"",
-                    "email":""
-                },
-
-                "assistantCoaches":[
-                    {
-                        "name":"",
-                        "email":""
-                    }
-                ]
-
-            },
-            {
-                "name":"",
-
-                "headCoach":{
                     "name":"Matt Chovanec",
                     "email":"mchovanec@alma.edu"
                 },
@@ -2623,7 +2607,1111 @@
 
             }
         ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Alvernia University",
+
+        "athleticDirector":{
+            "name":"Bill Stiles",
+            "email": "bill.stiles@alvernia.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Yogi Lutz",
+                    "email":"yogi.lutz@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Todd Louviaux",
+                        "email":"Todd.Louviaux@alvernia.edu"
+                    },
+
+                    {
+                        "name":"Rich Gaynor",
+                        "email":"Richard.Gaynor@alvernia.edu"
+                    },
+
+                    {
+                        "name":"Dan Louviaux",
+                        "email":"Daniel.Louviaux@alvernia.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Mike Miller",
+                    "email":"mike.miller@alvernia.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Terry Miller",
+                        "email":"Terry.Miller@alvernia.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Rayne Reber",
+                    "email":"rayne.reber@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Ross Reber",
+                        "email":"Ross.Reber@alvernia.edu"
+                    },
+                    {
+                        "name":"Damien Abrams",
+                        "email":"damien.abrams@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women bowling",
+
+                "headCoach":{
+                    "name":"Kerry Smith",
+                    "email":"Kerry.Smith@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jeffrey Smith",
+                        "email":"jeffrey.smith@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Jordan Smith",
+                    "email":"Jordan.smith@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Joe McCool",
+                        "email":"joseph.mccool@alvernia.edu"
+                    },
+                    {
+                        "name":"Zachary Barker",
+                        "email":"Zachary.Barker@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"equestrian women",
+
+                "headCoach":{
+                    "name":"Tobey McWilliams",
+                    "email":"valleymistfarm@horwith.net"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Eryn Ziegler",
+                        "email":"eryn.ziegler@gmail.com"
+                    }
+                ]
+
+            },
+            {
+                "name":"esports",
+
+                "headCoach":{
+                    "name":"Joshua Buchanan",
+                    "email":"joshua.buchanan@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"field hockey",
+
+                "headCoach":{
+                    "name":"Laura Gingrich",
+                    "email":"laura.gingrich@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Leann Shirk",
+                        "email":"Leann.Shirk@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Steve Azzanesi",
+                    "email":"Steve.azzanesi@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gabe Martorano",
+                        "email":"gabriel.martorano@alvernia.edu"
+                    },
+                    {
+                        "name":"Pat Lilly",
+                        "email":"patrick.lilly@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men golf",
+
+                "headCoach":{
+                    "name":"Jon King",
+                    "email":"jon.king@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tom O'Connell",
+                        "email":"tom.oconnell@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men ice hockey (NCAA)",
+
+                "headCoach":{
+                    "name":"Andrew Burke",
+                    "email":"Andrew.burke@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Anthony Astorino",
+                        "email":"Anthony.astorino@alvernia.edu"
+                    },
+                    {
+                        "name":"Mitch Harris",
+                        "email":"Mitch.harris@alvernia.edu"
+                    },
+                    {
+                        "name":"Eric Higgins",
+                        "email":"Eric.higgins@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men ice hockey (CLUB)",
+ 
+                "headCoach":{
+                    "name":"Joe Borelli",
+                    "email":"Giuseppe.Borelli@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Anthony Borelli",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Michael Sullinger",
+                    "email":"Michael.Sullinger@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Megan Corrigan",
+                    "email":"Megan.Corrigan@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Casey Moore",
+                    "email":"casey.moore@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Justin Allegra",
+                        "email":"Justin.allegra@alvernia.edu"
+                    },
+                    {
+                        "name":"Rob Cairns",
+                        "email":"robert.cairns@alvernia.edu"
+                    },
+                    {
+                        "name":"Richard Kessler",
+                        "email":"richard.kessler@alvernia.edu"
+                    },
+                    {
+                        "name":"Andrew McGinley",
+                        "email":"andrew.mcginley@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Seamus O'Connor",
+                    "email":"seamus.o'connor@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Amanda Bezner",
+                        "email":"amanda.bezner@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Wes Landrum",
+                    "email":"wesley.landrum@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jenn Schroeder",
+                        "email":"Jennifer.Schroeder@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"spirit team",
+
+                "headCoach":{
+                    "name":"Renee Wilder",
+                    "email":"lynette.wilder@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Dave Emkey",
+                    "email":"david.emkey@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Larry Zerbe",
+                        "email":"lawrence.zerbe@alvernia.edu"
+                    }, 
+                    {
+                        "name":"Joe Alessandrini",
+                        "email":"joe.alessandrini@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women tennis",
+
+                "headCoach":{
+                    "name":"",
+                    "email":""
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jennifer Myers",
+                        "email":"Jennifer.Myers@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"track and field",
+
+                "headCoach":{
+                    "name":"Jordan Smith",
+                    "email":"Jordan.smith@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Tim Hartung",
+                        "email":"timothy.hartung@alvernia.edu"
+                    },
+                    {
+                        "name":"Zachary Barker",
+                        "email":"Zachary.Barker@alvernia.edu"
+                    },
+                    {
+                        "name":"Joe McCool",
+                        "email":"joseph.mccool@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Kristen Sipling",
+                    "email":"kristen.sipling@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Brooke Robertson",
+                        "email":"brooke.robertson@alvernia.edu"
+                    },
+                    {
+                        "name":"Ryan Dry",
+                        "email":"ryan.dry@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"wrestling",
+
+                "headCoach":{
+                    "name":"Kriss Bellanca",
+                    "email":"Kriss.Bellanca@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Mike Lammer",
+                        "email":"Michael.Lammer@alvernia.edu"
+                    },
+                    {
+                        "name":"Brandon Choate",
+                        "email":"Brandon.Choate@alvernia.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women wrestling",
+
+                "headCoach":{
+                    "name":"Cindy Calixto",
+                    "email":"Cindy.calixto@alvernia.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Alverno College",
+
+        "athleticDirector":{
+            "name":"Katari Key",
+            "email": "katari.key@alverno.edu"
+        },
+
+        "sports":[
+            {
+                "name":"basketball",
+
+                "headCoach":{
+                    "name":"Nancy Rockwell",
+                    "email":"nancy.rockwell@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Marissa Delsman",
+                        "email":"marissa.delsman@alverno.edu"
+                    }
+
+                    
+                ]
+            },
+
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Richard Badger",
+                    "email":"richard.badger@alverno.edu"
+                },
+
+                "assistantCoach":[
+                
+                ]
+
+
+            },
+
+            {
+                "name":"soccer",
+
+                "headCoach":{
+                    "name":"David Sheridan",
+                    "email":"david.sheridan@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Shawn Jarmuz",
+                    "email":"shawn.jarmuz@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Lauren Greif",
+                        "email":"lauren.greif@alverno.edu"
+                    },
+                    {
+                        "name":"Taylor Kulaszewicz",
+                        "email":"taylor.kulaszewicz@alverno.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"tennis",
+
+                "headCoach":{
+                    "name":"Kyle Lara",
+                    "email":"kyle.lara@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Michelle Alexander",
+                        "email":"michelle.alexander@alverno.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"track and field",
+
+                "headCoach":{
+                    "name":"Anthony Boyer",
+                    "email":"anthony.boyer@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+            {
+                "name":"volleyball",
+
+                "headCoach":{
+                    "name":"Shannon Allen",
+                    "email":"shannon.allen@alverno.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            }
+        ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Amherst College",
+
+        "athleticDirector":{
+            "name":"Don Faulstick",
+            "email": "drfaulstick@amherst.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"J.P. Pyne",
+                    "email":"jpyne@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kyle Bonicki",
+                        "email":"kbonicki@amherst.edu"
+                    },
+
+                    {
+                        "name":"Brandon Shileikis",
+                        "email":"bshileikis@amherst.edu"
+                    }
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Marlon Sears",
+                    "email":"msears@amherst.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Luke Testani",
+                        "email":"ltestani@amherst.edu"
+                    },
+                    {
+                        "name":"Khalil Griffith",
+                        "email":"kgriffith@amherst.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"G.P. Gromacki",
+                    "email":"ggromacki@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                  
+                ]
+
+            },
+            {
+                "name":"cross country",
+
+                "headCoach":{
+                    "name":"Cassie Funke-Harris",
+                    "email":"cfunkeharris@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Veronica Rocco '19",
+                        "email":"vrocco19@amherst.edu"
+                    }
+                   
+                ]
+
+            },
+            {
+                "name":"wonmen cross country",
+
+                "headCoach":{
+                    "name":"Cassie Funke-Harris",
+                    "email":"cfunkeharris@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Veronica Rocco '19",
+                        "email":"vrocco19@amherst.edu"
+                    }
+                 
+                ]
+
+            },
+            {
+                "name":"field hockey",
+
+                "headCoach":{
+                    "name":"Carol Knerr",
+                    "email":"crknerr@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Noelani Schulmeyer",
+                        "email":"nschulmeyer@amherst.edu"
+                    },
+                    {
+                        "name":"Elle Brine",
+                        "email":"ebrine@amherst.edu"
+                    }
+               
+                ]
+
+            },
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"E.J. Mills",
+                    "email":"ejmills@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Matt Ballard",
+                        "email":"mballard@amherst.edu"
+                    },
+                    {
+                        "name":"Luke Bussard",
+                        "email":"jbussard@amherst.edu"
+                    },
+                    {
+                        "name":"Eddy Augustin",
+                        "email":"eaugustin@amherst.edu"
+                    },
+                    {
+                        "name":"Eddy Augustin",
+                        "email":"eaugustin@amherst.edu"
+                    },
+                    {
+                        "name":"Malik Grove",
+                        "email":"mgrove@amherst.edu"
+                    },
+                    {
+                        "name":"Laz Mitjans Jr.",
+                        "email":"lmitjans@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men golf",
+
+                "headCoach":{
+                    "name":"Elizabeth Davis",
+                    "email":"emdavis@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Nick Sullivan '20",
+                        "email":"nsullivan20@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women golf",
+
+                "headCoach":{
+                    "name":"Elizabeth Davis",
+                    "email":"emdavis@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Nick Sullivan '20",
+                        "email":"nsullivan20@amherst.edu"
+                    }
+                    
+                ]
+
+            },
+            {
+                "name":"men ice hockey",
+
+                "headCoach":{
+                    "name":"Jack Arena '83",
+                    "email":"jaarena@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jack Fitzgerald '19",
+                        "email":"jafitzgerald19@amherst.edu"
+                    },
+                    {
+                        "name":"Cam MacDonald",
+                        "email":"camacdonald@amherst.edu"
+                    }
+                 
+                ]
+
+            },
+            {
+                "name":"women ice hockey",
+
+                "headCoach":{
+                    "name":"Jeff Matthews",
+                    "email":"jmatthews@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kimberly Spring",
+                        "email":"kspring@amherst.edu"
+                    },
+                    {
+                        "name":"Zac Steigmeyer",
+                        "email":"zsteigmeyer@amherst.edu"
+                    }
+                    
+                ]
+
+            },
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Sean Woods",
+                    "email":"swoods@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Richard Carrington",
+                        "email":"rcarrington@amherst.edu"
+                    },
+                    {
+                        "name":"Patrick Wallace",
+                        "email":"pawallace@amherst.edu"
+                    }
+                   
+                ]
+
+            },
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Brooke Diamond O'Brien",
+                    "email":"bdobrien@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Ellen Arena",
+                        "email":"earena@amherst.edu"
+                    }
+                   
+                ]
+
+            },
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Justin Serpone",
+                    "email":"jserpone@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alex Ortega",
+                        "email":"aortega@amherst.edu"
+                    },
+                    {
+                        "name":"Jeff Huffman",
+                        "email":"jhuffman@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women soccer",
+
+                "headCoach":{
+                    "name":"Jen Hughes",
+                    "email":"jhughes@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Su DelGuercio",
+                        "email":"sdelguercio@amherst.edu"
+                    },
+                    {
+                        "name":"Jeff Huffman",
+                        "email":"jhuffman@amherst.edu"
+                    }
+                    
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Jessica Johnson",
+                    "email":"jjohnson@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Julie Bolduc",
+                        "email":"jbolduc@amherst.edu"
+                    },
+                    {
+                        "name":"Will Loredo",
+                        "email":"wloredo@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men squash",
+
+                "headCoach":{
+                    "name":"Busani Xaba",
+                    "email":"bxaba@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Josue Gomez Dominguez",
+                        "email":"jgomezdominguez@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women squash",
+
+               
+                "headCoach":{
+                    "name":"Busani Xaba",
+                    "email":"bxaba@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Josue Gomez Dominguez",
+                        "email":"jgomezdominguez@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men swimming and diving",
+
+                "headCoach":{
+                    "name":"Nick Nichols",
+                    "email":"nnichols@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kai Robinson '09",
+                        "email":"krobinson@nmhschool.org"
+                    },
+                    {
+                        "name":"Matthew Salig",
+                        "email":"msalig@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women swimming and diving",
+
+                "headCoach":{
+                    "name":"Nick Nichols",
+                    "email":"nnichols@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kai Robinson '09",
+                        "email":"krobinson@nmhschool.org"
+                    },
+                    {
+                        "name":"Matthew Salig",
+                        "email":"msalig@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Todd Doebler",
+                    "email":"tdoebler@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Kip Rogers",
+                        "email":"krogers@amherst.edu"
+                    }
+                    
+                ]
+
+            },
+            {
+                "name":"women tennis",
+
+                "headCoach":{
+                    "name":"Jackie Bagwell",
+                    "email":"jkbagwell@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Alan Dubrovsky",
+                        "email":"adubrovsky@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men track and field",
+
+                "headCoach":{
+                    "name":"Steve Rubin",
+                    "email":"strubin@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Cassie Funke-Harris",
+                        "email":"cfunkeharris@amherst.edu"
+                    },
+                    {
+                        "name":"Veronica Rocco '19",
+                        "email":"vrocco19@amherst.edu"
+                    },
+                    {
+                        "name":"Roger An",
+                        "email":"ran@amherst.edu"
+                    },
+                    {
+                        "name":"Jamie Carlson",
+                        "email":"jcarlson@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women track and field",
+
+                "headCoach":{
+                    "name":"Steve Rubin",
+                    "email":"strubin@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Cassie Funke-Harris",
+                        "email":"cfunkeharris@amherst.edu"
+                    },
+                    {
+                        "name":"Veronica Rocco '19",
+                        "email":"vrocco19@amherst.edu"
+                    },
+                    {
+                        "name":"Roger An",
+                        "email":"ran@amherst.edu"
+                    },
+                    {
+                        "name":"Jamie Carlson",
+                        "email":"jcarlson@amherst.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Val Jones",
+                    "email":"vjones@amherst.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Gabi Dias",
+                        "email":"gnevesdias@amherst.edu"
+                    }
+                    
+                ]
+
+            }
+        ]
     }
+
+
+
+
+
+
 
     
 
