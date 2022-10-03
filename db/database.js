@@ -1,4 +1,3 @@
-const { ReturnDocument } = require('mongodb');
 const mongoose = require('mongoose');
 
 exports.localDb = ()=>{
