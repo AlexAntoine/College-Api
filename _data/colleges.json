@@ -3705,7 +3705,376 @@
 
             }
         ]
+    },
+
+    {
+        "division": "3",
+
+        "school": "Anderson University",
+
+        "athleticDirector":{
+            "name":"Marcie Taylor",
+            "email": "mjtaylor@anderson.edu"
+        },
+
+        "sports":[
+            {
+                "name":"baseball",
+
+                "headCoach":{
+                    "name":"Mathew Bair",
+                    "email":"mgbair@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Carlos Leyva",
+                        "email":"crleyva@anderson.edu"
+                    }
+
+                   
+                ]
+            },
+
+            {
+                "name":"men basketball",
+
+                "headCoach":{
+                    "name":"Owen Handy",
+                    "email":"ohandy@anderson.edu"
+                },
+
+                "assistantCoach":[
+                    {
+                        "name":"Carter Collins",
+                        "email":"cmcollins@anderson.edu"
+                    }
+                ]
+
+
+            },
+
+            {
+                "name":"women basketball",
+
+                "headCoach":{
+                    "name":"Jon Gin",
+                    "email":"jpgin@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Morgan Douglass",
+                        "email":"medouglass2@anderson.edu"
+                    },
+                    {
+                        "name":"Emily Langolf",
+                        "email":"emlangolf@anderson.edu"
+                    }
+                    
+                ]
+
+            },
+            {
+                "name":"men cross country",
+
+                "headCoach":{
+                    "name":"Karis Johnson",
+                    "email":"krjohnson2@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Nic Huffman",
+                        "email":"nahuffman@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women cross country",
+
+                "headCoach":{
+                    "name":"Karis Johnson",
+                    "email":"krjohnson2@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Nic Huffman",
+                        "email":"nahuffman@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"esports",
+
+                "headCoach":{
+                    "name":"Matt Burnstedt",
+                    "email":"mburnstedt@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+            {
+                "name":"football",
+
+                "headCoach":{
+                    "name":"Steve Rock",
+                    "email":"srock@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Eric Lantz",
+                        "email":"elantz2@anderson.edu"
+                    },
+                    {
+                        "name":"Jeremy Lochner",
+                        "email":"jalochner@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men golf",
+
+                "headCoach":{
+                    "name":"Carter Collins",
+                    "email":"cmcollins@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jacob Gray",
+                        "email":"jegray@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"womne golf",
+
+                "headCoach":{
+                    "name":"Morgan Douglass",
+                    "email":"medouglass2@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jacob Gray",
+                        "email":"jegray@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men lacrosse",
+
+                "headCoach":{
+                    "name":"Jacob Ashton",
+                    "email":"jaashton@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Eric Fisher",
+                        "email":"ewfisher@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women lacrosse",
+
+                "headCoach":{
+                    "name":"Russell Mackey",
+                    "email":"rhmackey@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"C.J. Pinyot",
+                        "email":"cjpinyot@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"men soccer",
+
+                "headCoach":{
+                    "name":"Scott Fridley",
+                    "email":"stfridley@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Jackson Schlemmer",
+                        "email":"jtschlemmer@anderson.edu"
+                    },
+                    {
+                        "name":"Bobby Holden",
+                        "email":"rsholden@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":" women soccer",
+
+                "headCoach":{
+                    "name":"Jennifer Myhre",
+                    "email":"jcmyhre@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Isidro Alvarado",
+                        "email":"ialvarado@anderson.edu"
+                    },
+                    {
+                        "name":"Makesi Lewis",
+                        "email":"mklewis@anderson.edu"
+                    },
+                    {
+                        "name":"Maddie Martin",
+                        "email":"mmartin@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"softball",
+
+                "headCoach":{
+                    "name":"Tony Holloway",
+                    "email":"tlholloway@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    
+                ]
+
+            },
+            {
+                "name":"men swimming and diving",
+
+                "headCoach":{
+                    "name":"Emma Maubach",
+                    "email":"ermaubach@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"women swimming and diving",
+
+                "headCoach":{
+                    "name":"Emma Maubach",
+                    "email":"ermaubach@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+            {
+                "name":"men tennis",
+
+                "headCoach":{
+                    "name":"Matt Moore",
+                    "email":"mamoore4@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"",
+                        "email":""
+                    }
+                ]
+
+            },
+            {
+                "name":"women tennis",
+
+                "headCoach":{
+                    "name":"Matt Moore",
+                    "email":"mamoore4@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                   
+                ]
+
+            },
+            {
+                "name":"men track and field",
+
+                "headCoach":{
+                    "name":"Nic Huffman",
+                    "email":"nahuffman@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Karis Johnson",
+                        "email":"krjohnson2@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women track and field",
+
+                "headCoach":{
+                    "name":"Nic Huffman",
+                    "email":"nahuffman@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Karis Johnson",
+                        "email":"krjohnson2@anderson.edu"
+                    }
+                ]
+
+            },
+            {
+                "name":"women volleyball",
+
+                "headCoach":{
+                    "name":"Tami Miller",
+                    "email":"trmiller@anderson.edu"
+                },
+
+                "assistantCoaches":[
+                    {
+                        "name":"Vicki Beach",
+                        "email":"vjbeach@anderson.edu"
+                    },
+                    {
+                        "name":"Kyle Browne",
+                        "email":"knbrowne@anderson.edu"
+                    }
+                ]
+
+            }
+        ]
     }
+
+
 
 
 
